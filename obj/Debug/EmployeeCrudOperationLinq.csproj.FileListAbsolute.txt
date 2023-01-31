@@ -1,0 +1,12 @@
+D:\CDAC BANGLORE\DOTNET\WORKSPACE\EmployeeCrudOperationLinq\bin\Debug\EmployeeCrudOperationLinq.exe.config
+D:\CDAC BANGLORE\DOTNET\WORKSPACE\EmployeeCrudOperationLinq\bin\Debug\EmployeeCrudOperationLinq.exe
+D:\CDAC BANGLORE\DOTNET\WORKSPACE\EmployeeCrudOperationLinq\bin\Debug\EmployeeCrudOperationLinq.pdb
+D:\CDAC BANGLORE\DOTNET\WORKSPACE\EmployeeCrudOperationLinq\obj\Debug\EmployeeCrudOperationLinq.csproj.AssemblyReference.cache
+D:\CDAC BANGLORE\DOTNET\WORKSPACE\EmployeeCrudOperationLinq\obj\Debug\EmployeeCrudOperationLinq.csproj.SuggestedBindingRedirects.cache
+D:\CDAC BANGLORE\DOTNET\WORKSPACE\EmployeeCrudOperationLinq\obj\Debug\EmployeeCrudOperationLinq.Form1.resources
+D:\CDAC BANGLORE\DOTNET\WORKSPACE\EmployeeCrudOperationLinq\obj\Debug\EmployeeCrudOperationLinq.Properties.Resources.resources
+D:\CDAC BANGLORE\DOTNET\WORKSPACE\EmployeeCrudOperationLinq\obj\Debug\EmployeeCrudOperationLinq.csproj.GenerateResource.cache
+D:\CDAC BANGLORE\DOTNET\WORKSPACE\EmployeeCrudOperationLinq\obj\Debug\EmployeeCrudOperationLinq.csproj.CoreCompileInputs.cache
+D:\CDAC BANGLORE\DOTNET\WORKSPACE\EmployeeCrudOperationLinq\obj\Debug\EmployeeCrudOperationLinq.exe
+D:\CDAC BANGLORE\DOTNET\WORKSPACE\EmployeeCrudOperationLinq\obj\Debug\EmployeeCrudOperationLinq.pdb
+D:\CDAC BANGLORE\DOTNET\WORKSPACE\EmployeeCrudOperationLinq\obj\Debug\EmployeeCrudOperationLinq.Form2.resources
